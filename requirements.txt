@@ -1,0 +1,8 @@
+crewai
+duckduckgo-search
+requests
+beautifulsoup4
+markdownify
+pytest
+pytest-cov
+jupyter
